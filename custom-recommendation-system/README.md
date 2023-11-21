@@ -21,6 +21,6 @@ based on their past behavior and patterns.
 
 Contributions are welcome!
 
-##License 
+## License 
 
 This project is licensed under the MIT License.
